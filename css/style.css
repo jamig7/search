@@ -108,7 +108,7 @@ body {
 	----------------------------------------------------- */
 
 #engines {
-	width: 700px;
+	width: 100px;
 	height: 80px;
 	position: absolute;
 	left: 50%;
@@ -124,8 +124,8 @@ body {
 
 #engines a {
 	display: block;
-	width: 100px;
-	height: 100px;
+	width: 140px;
+	height: 80px;
 	cursor: pointer;
 	opacity: 0.0;
 	position: absolute;
