@@ -1,2 +1,2 @@
 # search
-Fork of https://start.zorin.com/ using Whoogle instead of Google Search
+Fork of https://start.zorin.com/ using open-source search frontends.
