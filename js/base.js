@@ -5,7 +5,7 @@ eng.google = {
 	pageTitle: "SearXNG",
 	logo: "google.png",
 	places: {
-		'Web'    : ["https://searx.tiekoetter.com/search?q=%query%", false],
+		'Web'    : ["https://http://gowogle.voring.me/search?q=%query%", false],
 		'Images' : ["https://searx.tiekoetter.com/search?=%query%&category_images=on", false],
 		'Maps'   : ["https://searx.tiekoetter.com/search?=%query%&category_map=on", false]
 	}
