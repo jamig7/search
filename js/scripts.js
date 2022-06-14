@@ -2,7 +2,7 @@
 var eng = {},
 	current = {},
 	fadeDur = 200,
-	titlePrefix = "Search ",
+	titlePrefix = "search ",
 	
 	idxWidth = 700,
 	idxLogoFull  = [225,80],
